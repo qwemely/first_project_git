@@ -115,3 +115,34 @@ footer {
     justify-content: center;
     color: white;
 }
+ body {
+     body {
+      font-family: 'Work Sans', sans-serif;
+      background-color:#E0FFFF;
+    }
+
+    header {
+      animation: fadeIn 1s ease-out forwards;
+  background-image: url("header_bg.jpg");
+  background-size: cover;
+  background-position: center;
+    }
+    h1 {
+  color:	
+	 #CCCCFF;
+    
+}
+p{
+    color: #CCCCFF;
+
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.scroll-down {
+  text-decoration: none;
+  color: powderblue;
+  cursor: pointer;
+}
