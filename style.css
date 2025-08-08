@@ -115,8 +115,7 @@ footer {
     justify-content: center;
     color: white;
 }
- body {
-     body {
+body {
       font-family: 'Work Sans', sans-serif;
       background-color:#E0FFFF;
     }
@@ -143,6 +142,7 @@ html {
 
 .scroll-down {
   text-decoration: none;
-  color: powderblue;
+  color: #B57EDC;
   cursor: pointer;
 }
+ 
